@@ -1,2 +1,2 @@
-# jogo-da-cobrinha
+# jogo-da-cobrinha-javascript
 criando jogo da cobrinha 
